@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" width="100%" alt="main-banner" />
+  <img src="https://github.com/CometixOrg/.github/blob/main/resources/main-banner.png" width="100%" alt="main-banner" />
 </div>
 
 Welcome to the official GitHub of Cometix, a dedicated cybersecurity organization building the future of secure, decentralized experiences with AI-driven solutions.
